@@ -1,10 +1,8 @@
-![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png)
 
-Cheesesquare Sample
+
+ukenya Sample
 ===================================
-
-Demos the new Android Design library. This is not an exhaustive sample, but shows
-some of the important features in the Design library:
+some of the features 
 
 - Collapsing Toolbar
 - FloatingActionButton
