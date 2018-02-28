@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "838643162990",
+    "firebase_url": "https://project-jeff2.firebaseio.com",
+    "project_id": "project-jeff2",
+    "storage_bucket": "project-jeff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838643162990:android:3c4eab5698e13cc6",
+        "android_client_info": {
+          "package_name": "com.support.android.ukenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838643162990-snbq6raoirattj4kq6p9b1k690huopf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vEaCvavhDmKTb4iwsoGkBdZSVOipgF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

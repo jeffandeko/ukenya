@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/numbers"
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_numbers"
+            android:text="@string/category_numbers" />
+
+        <TextView
+            android:id="@+id/family"
+            style="@style/CategoryStyle"
+            android:layout_weight="1"
+            android:background="@color/category_family"
+            android:text="@string/category_family" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/colors"
+            style="@style/CategoryStyle"
+            android:layout_weight="2"
+            android:background="@color/category_colors"
+            android:text="@string/category_colors" />
+
+        <TextView
+            android:id="@+id/phrases"
+            style="@style/CategoryStyle"
+            android:layout_weight="2"
+            android:background="@color/category_phrases"
+            android:text="@string/category_phrases" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/messageshape"
+        android:paddingBottom="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        android:text="@string/click_the_basic_attribute_u_want_to_learn_and_enjoy"
+        android:textStyle="bold" />
+</LinearLayout>

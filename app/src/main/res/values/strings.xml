@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">UkeNya</string>
+
+    <string name="checkin">Checkin</string>
+
+    <string name="menu_night_mode">Learning Mode</string>
+    <string name="menu_night_mode_system">Chat Mode</string>
+    <string name="menu_night_mode_day">Chat (always)</string>
+    <string name="menu_night_mode_night">Learn(always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="basic_words_in_different_kenyan_languages">Learn Basic Words used in different kenyan languages</string>
+    <string name="chat_and_learn">Chat and learn different kenyan languages in this section, get a tutor for  local language of your choice. enjoy</string>
+    <string name="chat_learn">Chat &amp; Learn</string>
+    <string name="basics">Home</string>
+    <string name="contribute_and_share_our_unique_kenyan_cultures_we_are_diverse_unique_and_beautiful_in_different_ways">Contribute and share our unique kenyan cultures. We are diverse, unique and beautiful in different ways</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+
+
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+
+
+    <string name="category_colors">Basic Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+
+
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+
+
+    <string name="category_family">Family Members</string>
+
+    <string name="created_by_Jeff_Andeko">Created by Jeff Andeko</string>
+    <string name="begin">Begin your journey!</string>
+    <string name="basic_words">Basic Words</string>
+    <string name="click_chat">Click chat!</string>
+    <string name="share_your_culture_through_written_or_pictures">Share your culture through writings or posting pictures!</string>
+    <string name="click_the_basic_attribute_u_want_to_learn_and_enjoy">click the basic attribute u want to learn and enjoy</string>
+</resources>
