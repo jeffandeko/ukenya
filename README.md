@@ -1,6 +1,6 @@
 
 
-ukenya Sample
+# ukenya Sample
 ===================================
 some of the features 
 
@@ -10,17 +10,17 @@ some of the features
 - NavigationView
 - Snackbar
 
-Pre-requisites
+# Pre-requisites
 --------------
 
 - Android SDK v22
 - Android Build Tools v22.0.1
 - Android Support Repository r16 (for v22.2.1)
 
-License
+# License
 -------
 
-Copyright 2014 The Android Open Source Project, Inc.
+## Copyright 2014 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
